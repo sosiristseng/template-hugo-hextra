@@ -1,21 +1,12 @@
-# Hextra Starter Template
+# Hugo Hextra Template
 
-🐣 Minimal template for getting started with [Hextra](https://github.com/imfing/hextra)
+Template for getting started with [Hextra](https://github.com/imfing/hextra), adapted from [hextra starter template](https://github.com/imfing/hextra-starter-template).
 
 ## Quick Start
 
 Use this template to create your own repository:
 
 <img src="https://docs.github.com/assets/cb-77734/mw-1440/images/help/repository/use-this-template-button.webp" width=400 />
-
-You can also quickly start developing using the following online development environment:
-
-- [GitHub Codespaces](https://github.com/codespaces)
-
-    [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/imfing/hextra-starter-template)
-
-    Create a new codespace and follow the [Local Development](#local-development) to launch the preview
-
 
 ## Deployment
 
